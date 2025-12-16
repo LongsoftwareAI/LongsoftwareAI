@@ -1,7 +1,8 @@
 # About Me 🔗
 
-👋 Hey there, I'm **Long Nguyen Thang**
-🤖 **AI Engineer** | MLOps Specialist ✨
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=38BDAE&center=true&vCenter=true&width=435&lines=Hey+there,+I'm+Long+Nguyen+Thang;I'm+an+AI+Engineer;I'm+an+MLOps+Specialist;I+Build+Scalable+AI+Systems" alt="Typing SVG" />
+</a>
 
 ---
 
