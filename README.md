@@ -21,6 +21,11 @@
 * **Core Expertise:** Proficient in DL frameworks like **PyTorch** and **TensorFlow**, alongside MLOps tools such as **Docker**.
 * **Focus Areas:** Deeply interested in **Natural Language Processing (NLP)**, **Computer Vision**, and optimizing **Large Language Models (LLMs)** for inference and fine-tuning.
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LongsoftwareAI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="LongsoftwareAI's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LongsoftwareAI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</p>
+
 ---
 
 ### 🛠️ My Favorite Toolkit
