@@ -26,6 +26,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LongsoftwareAI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/LongsoftwareAI/LongsoftwareAI/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
 ---
 
 ### 🛠️ My Favorite Toolkit
