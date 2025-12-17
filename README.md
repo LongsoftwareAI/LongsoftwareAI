@@ -1,5 +1,7 @@
 # About Me 🔗
 
+![Header](./header.png)
+---
 👋 Hey there, I'm **Long Nguyen Thang**
 🤖 **AI Engineer** | MLOps Specialist ✨
 
