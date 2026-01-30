@@ -51,7 +51,7 @@
     ![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=flat-square)
 * **✨ Highlights:** Implemented a strictly **internal pipeline** (no external APIs like ChatGPT), focusing on Vietnamese cultural context understanding and logic reasoning using VNPT LLM APIs.
 
-#### 📄 Viettel AI Race 2025
+#### 📄 [Viettel AI Race 2025 - Team 1stars](https://github.com/LongsoftwareAI/viettel_ai_race_round3_privateLB)
 > *Document Intelligence & Information Extraction*
 
 * **📝 Description:** Developed a Document Intelligence solution for automated information extraction and Q&A tasks.
