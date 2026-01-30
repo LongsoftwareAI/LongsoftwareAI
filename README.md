@@ -13,7 +13,7 @@
 
 ### 🧠 Introduction
 
-💬 I'm an **AI Engineer** with a passion for building beautiful, functional, and scalable Machine Learning (ML) and Deep Learning (DL) systems. I specialize in taking models from research to production-ready deployments (MLOps).
+💬 I'm an **AI Engineer** with a passion for building beautiful, functional, and scalable Machine Learning (ML) and Deep Learning (DL) systems. I specialize in taking models from research to production-ready deployments.
 
 * **Core Expertise:** Proficient in DL frameworks like **PyTorch** and **TensorFlow**, alongside MLOps tools such as **Docker**.
 * **Focus Areas:** Deeply interested in **Natural Language Processing (NLP)**, **Computer Vision**, and optimizing **Large Language Models (LLMs)** for inference and fine-tuning.
@@ -64,4 +64,4 @@
 
 ### 🤝 Collaboration
 
-💡 I am always looking to learn and share knowledge about AI engineering best practices and cutting-edge MLOps techniques. If you're interested in my work or simply want to connect with a fellow AI enthusiast, please reach out via LinkedIn or Email!
+💡 I am always looking to learn and share knowledge about AI engineering best practices. If you're interested in my work or simply want to connect with a fellow AI enthusiast, please reach out via LinkedIn or Email!
